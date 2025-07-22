@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Deploy a TomCat  - 18 Julio 2025 19:33" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Pipeline desde Github Actions  - 21 Julio 2025 20:06" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
