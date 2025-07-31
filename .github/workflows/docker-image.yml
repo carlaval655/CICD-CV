@@ -44,4 +44,5 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: carlaval6558/cicddockerdiplomadogithubactions
+        platforms: linux/amd64,linux/arm64
+        tags: carlaval6558/cicddockerdiplomadogithubactions:latest
